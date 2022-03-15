@@ -1,6 +1,7 @@
 # DSA_Challenge_5_File_Manipulation_Algorithm
 
-Complete Explanation : Youtube Video : https://youtu.be/U0TJ1afaHyo
+### Complete Explanation : 
+* Youtube Video : https://youtu.be/U0TJ1afaHyo
 
 On uploading a file, algorithm will automatically understands the format of file and uploads it to its respective folder. 
 
